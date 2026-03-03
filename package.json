@@ -1,0 +1,28 @@
+{
+  "name": "taller_crypt",
+  "version": "1.0.0",
+  "description": "Repositorio de practicas para comprender el WS Auth con Hash y Salt",
+  "keywords": [
+    "WSAuth",
+    "Hash",
+    "Salt"
+  ],
+  "homepage": "https://github.com/enzorh222/taller_crypt#readme",
+  "bugs": {
+    "url": "https://github.com/enzorh222/taller_crypt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzorh222/taller_crypt.git"
+  },
+  "license": "ISC",
+  "author": "Enzo Adolfo Rubattino Huarzaya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  }
+}
